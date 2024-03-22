@@ -12,4 +12,5 @@
 - Scaling Workloads Across Multiple GPUs with CUDA C++ (scaling)
 - Optimizing CUDA ML Codes with NVIDIA Nsight's Profiling Tools (profiling)
 
-  
+## Acknowledgement
+NVIDIA Developer Program
