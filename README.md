@@ -1,11 +1,11 @@
 # cuda-accelerated-computing
 
 ## Introduction
-- This is my learning path as a developer to accelerated computing using CUDA.
+- This is my learning path as a developer to accelerated computing using CUDA, and the language used is Python and C++.
 
 - This is also the first component of **Beginner to Expert: AI Technical Training**, a NVIDIA Developer Program
 
-## Selected Structure
+## Selected Structure (folder name)
 - An Even Easier Introduction to CUDA (intro)
 - Fundamentals of Accelerated Computing with CUDA C/C++ (accelerated)
 - Accelerating CUDA C++ Applications with Concurrent Streams (concurrent)
